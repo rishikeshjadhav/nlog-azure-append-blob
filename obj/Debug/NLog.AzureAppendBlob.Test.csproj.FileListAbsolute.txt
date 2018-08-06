@@ -1,0 +1,11 @@
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.AzureAppendBlob.Test.exe.config
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.AzureAppendBlob.Test.exe
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.AzureAppendBlob.Test.pdb
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.AzureAppendBlob.dll
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.dll
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\bin\Debug\NLog.AzureAppendBlob.pdb
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\obj\Debug\NLog.AzureAppendBlob.Test.csprojResolveAssemblyReference.cache
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\obj\Debug\NLog.AzureAppendBlob.Test.exe
+D:\Projects\Learnings\Samples\NLog.AppendBlob\NLog.AzureAppendBlob.Test\obj\Debug\NLog.AzureAppendBlob.Test.pdb
